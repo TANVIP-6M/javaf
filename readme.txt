@@ -18,4 +18,4 @@ it is successful
 
 just checking !!!!!
 
-trigger for poll scm
+trigger for poll scm yes it works
