@@ -8,5 +8,5 @@ Follow these steps to run java.
 implementing webhook!!!
 Welcome to jenkins session
 
-poll scm implementation
+webhook trigger implementation
 
