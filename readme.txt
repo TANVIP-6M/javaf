@@ -10,5 +10,4 @@ Hope you will enjoy!!
 Happy jenkins!!!!!!!!
 
 making changes for poll scm trigger
-..........
 Implementing github webhook
