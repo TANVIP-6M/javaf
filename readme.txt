@@ -5,15 +5,4 @@ To compile- javac Test.java
 To run- java Test.java
 
 Follow these steps to run java projects
-
-Hope you will enjoy!!
-Happy jenkins!!!!!!!!
-
-making changes for poll scm trigger
-Implementing github webhook
-
-Webhook m43.......
-Just checking webhook
-implementing poll scm
-
 Implementing github webhook trigger
